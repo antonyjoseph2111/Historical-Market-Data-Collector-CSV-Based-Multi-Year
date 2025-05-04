@@ -18,7 +18,7 @@ pip install requests pandas
 
 ## Setup & Configuration
 
-### 1. Copy The Code To Colab And Run It.Edit the Changes As Per Your Need. I will attach all trade pairs in the main repo
+### 1. Copy The Code To Colab And Run It.Edit the Changes As Per Your Need. You can check it binance website for the trade pair.
 
 ### 2. Configure the Script
 
@@ -27,7 +27,7 @@ pip install requests pandas
 - `years`: Specify the list of years for which you want to download data.
 
 ```python
-symbol = 'BTCUSDT'      # You can use anything in the list attached to the repo'
+symbol = 'BTCUSDT'      # You can use any trade pair listed in binance'
 interval = '1m'         # Example: '1m', '1h', '1d'
 years = [2022, 2023]    # Example: [2021, 2022, 2023] You can add years to the list in the given code
 ```
