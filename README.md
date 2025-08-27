@@ -91,7 +91,7 @@ timestamp,open,high,low,close,volume
 <hr />
 
 <h2>📜 License</h2>
-<p>This project is licensed under the <a href="https://opensource.org/licenses/MIT">CC0-1.0 license</a>.</p>
+<p>This project is licensed under the <a href="https://opensource.org/licenses/MIT](https://github.com/antonyjoseph2111/Historical-Market-Data-Collector-CSV-Based-Multi-Year/blob/main/LICENSE">CC0-1.0 license</a>.</p>
 
 <hr />
 
