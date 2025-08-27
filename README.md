@@ -58,7 +58,7 @@ pip install -r requirements.txt
 
 <h3>3. Run the notebook</h3>
 <pre>
-jupyter notebook main.ipynb
+jupyter notebook data_collection.ipynb
 </pre>
 
 <h3>4. Example Output</h3>
@@ -80,13 +80,6 @@ timestamp,open,high,low,close,volume
   <li>Automated tests + CI pipeline.</li>
   <li>Optional database integration (SQLite / PostgreSQL).</li>
 </ul>
-
-<hr />
-
-<h2>📸 Screenshots</h2>
-<p align="center">
-  <img src="https://via.placeholder.com/800x400?text=Sample+CSV+Output" alt="CSV Output Example" />
-</p>
 
 <hr />
 
